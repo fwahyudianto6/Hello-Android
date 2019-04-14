@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Hello Android</string>
+    <string name="welcome">Hello Android Studio!</string>
 </resources>
